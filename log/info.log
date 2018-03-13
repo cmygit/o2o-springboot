@@ -1,0 +1,175 @@
+2018-03-13 12:09:13:586 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - Starting AreaDaoTest on POQ9V6ZT6KW6JQQ with PID 7580 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:09:13:589 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2018-03-13 12:09:57:500 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - Starting AreaDaoTest on POQ9V6ZT6KW6JQQ with PID 8140 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:09:57:544 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2018-03-13 12:11:44:230 [main] INFO  com.cmy.o2o.O2oApplicationTests - Starting O2oApplicationTests on POQ9V6ZT6KW6JQQ with PID 7584 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:11:44:235 [main] INFO  com.cmy.o2o.O2oApplicationTests - No active profile set, falling back to default profiles: default
+2018-03-13 12:19:57:641 [main] INFO  com.cmy.o2o.O2oApplicationTests - Starting O2oApplicationTests on POQ9V6ZT6KW6JQQ with PID 6768 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:19:57:646 [main] INFO  com.cmy.o2o.O2oApplicationTests - No active profile set, falling back to default profiles: default
+2018-03-13 12:21:18:789 [main] INFO  com.cmy.o2o.O2oApplicationTests - Starting O2oApplicationTests on POQ9V6ZT6KW6JQQ with PID 7680 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:21:18:807 [main] INFO  com.cmy.o2o.O2oApplicationTests - No active profile set, falling back to default profiles: default
+2018-03-13 12:21:25:566 [main] INFO  com.cmy.o2o.O2oApplicationTests - Started O2oApplicationTests in 7.43 seconds (JVM running for 9.911)
+2018-03-13 12:23:44:225 [main] INFO  com.cmy.o2o.O2oApplicationTests - Starting O2oApplicationTests on POQ9V6ZT6KW6JQQ with PID 7932 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:23:44:231 [main] INFO  com.cmy.o2o.O2oApplicationTests - No active profile set, falling back to default profiles: default
+2018-03-13 12:23:50:734 [main] INFO  com.cmy.o2o.O2oApplicationTests - Started O2oApplicationTests in 7.471 seconds (JVM running for 10.557)
+2018-03-13 12:24:20:407 [main] INFO  com.cmy.o2o.O2oApplicationTests - Starting O2oApplicationTests on POQ9V6ZT6KW6JQQ with PID 4148 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:24:20:413 [main] INFO  com.cmy.o2o.O2oApplicationTests - No active profile set, falling back to default profiles: default
+2018-03-13 12:24:25:921 [main] INFO  com.cmy.o2o.O2oApplicationTests - Started O2oApplicationTests in 6.091 seconds (JVM running for 8.609)
+2018-03-13 12:24:45:918 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - Starting AreaDaoTest on POQ9V6ZT6KW6JQQ with PID 6512 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:24:45:939 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2018-03-13 12:24:51:502 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - Started AreaDaoTest in 6.443 seconds (JVM running for 8.852)
+2018-03-13 12:26:02:786 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - Starting AreaDaoTest on POQ9V6ZT6KW6JQQ with PID 7368 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 12:26:02:794 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2018-03-13 12:26:08:710 [main] INFO  com.cmy.o2o.dao.AreaDaoTest - Started AreaDaoTest in 6.643 seconds (JVM running for 9.016)
+2018-03-13 14:37:55:117 [main] INFO  com.cmy.o2o.service.WechatAuthServiceTest - Starting WechatAuthServiceTest on POQ9V6ZT6KW6JQQ with PID 3780 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 14:37:55:122 [main] INFO  com.cmy.o2o.service.WechatAuthServiceTest - No active profile set, falling back to default profiles: default
+2018-03-13 14:38:01:563 [main] INFO  com.cmy.o2o.service.WechatAuthServiceTest - Started WechatAuthServiceTest in 7.496 seconds (JVM running for 9.923)
+2018-03-13 14:40:11:225 [main] INFO  com.cmy.o2o.service.WechatAuthServiceTest - Starting WechatAuthServiceTest on POQ9V6ZT6KW6JQQ with PID 6756 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 14:40:11:242 [main] INFO  com.cmy.o2o.service.WechatAuthServiceTest - No active profile set, falling back to default profiles: default
+2018-03-13 14:40:17:553 [main] INFO  com.cmy.o2o.service.WechatAuthServiceTest - Started WechatAuthServiceTest in 7.41 seconds (JVM running for 9.803)
+2018-03-13 14:42:42:129 [main] INFO  com.cmy.o2o.service.AreaServiceTest - Starting AreaServiceTest on POQ9V6ZT6KW6JQQ with PID 8068 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 14:42:42:133 [main] INFO  com.cmy.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2018-03-13 14:42:47:757 [main] INFO  com.cmy.o2o.service.AreaServiceTest - Started AreaServiceTest in 6.536 seconds (JVM running for 8.887)
+2018-03-13 14:43:41:784 [main] INFO  com.cmy.o2o.service.AreaServiceTest - Starting AreaServiceTest on POQ9V6ZT6KW6JQQ with PID 2916 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 14:43:41:789 [main] INFO  com.cmy.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2018-03-13 14:43:47:981 [main] INFO  com.cmy.o2o.service.AreaServiceTest - Started AreaServiceTest in 7.111 seconds (JVM running for 9.62)
+2018-03-13 15:08:02:979 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 6940 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:08:02:984 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:08:07:745 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.378 seconds (JVM running for 7.432)
+2018-03-13 15:09:10:127 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9092 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:09:10:139 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:09:14:478 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.116 seconds (JVM running for 6.686)
+2018-03-13 15:13:55:763 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9092 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:13:55:764 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:13:57:497 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 1.827 seconds (JVM running for 289.7)
+2018-03-13 15:14:42:790 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9092 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:14:42:790 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:14:43:969 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 1.277 seconds (JVM running for 336.17)
+2018-03-13 15:15:12:411 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 3544 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:15:12:418 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:15:16:502 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 4.964 seconds (JVM running for 6.497)
+2018-03-13 15:42:40:177 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 3544 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:42:40:178 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:42:41:822 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 1.745 seconds (JVM running for 1651.783)
+2018-03-13 15:43:28:362 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8632 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:43:28:369 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:43:32:467 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 4.944 seconds (JVM running for 6.726)
+2018-03-13 15:48:21:578 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9480 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:48:21:588 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:48:26:694 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.071 seconds (JVM running for 8.797)
+2018-03-13 15:51:20:762 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9480 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:51:20:763 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:51:22:669 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 2.022 seconds (JVM running for 184.768)
+2018-03-13 15:59:42:908 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8552 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 15:59:42:917 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 15:59:47:387 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.327 seconds (JVM running for 6.813)
+2018-03-13 16:00:29:957 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8552 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:00:29:958 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:00:31:748 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 1.928 seconds (JVM running for 51.173)
+2018-03-13 16:03:35:634 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9140 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:03:35:639 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:03:40:044 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.208 seconds (JVM running for 7.671)
+2018-03-13 16:09:33:478 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8648 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:09:33:487 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:09:39:601 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.811 seconds (JVM running for 8.7)
+2018-03-13 16:15:21:283 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10100 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:15:21:292 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:15:25:469 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.078 seconds (JVM running for 6.576)
+2018-03-13 16:20:52:381 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9476 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:20:52:385 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:20:57:641 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.009 seconds (JVM running for 7.628)
+2018-03-13 16:21:44:179 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9476 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:21:44:180 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:21:45:169 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 1.056 seconds (JVM running for 55.154)
+2018-03-13 16:37:21:155 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9568 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:37:21:162 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:37:25:394 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.145 seconds (JVM running for 6.587)
+2018-03-13 16:38:25:655 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9568 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:38:25:656 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:38:27:625 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 2.045 seconds (JVM running for 68.816)
+2018-03-13 16:48:49:429 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10208 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:48:49:436 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:50:09:788 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 4892 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:50:09:796 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:51:30:574 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9568 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:51:30:575 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:51:32:563 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 2.085 seconds (JVM running for 853.738)
+2018-03-13 16:53:10:703 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8360 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:53:10:710 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:55:06:206 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10876 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:55:06:215 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:55:10:125 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.087 seconds (JVM running for 6.537)
+2018-03-13 16:55:33:102 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 7660 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:55:33:110 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:55:38:832 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.399 seconds (JVM running for 8.849)
+2018-03-13 16:57:06:525 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8596 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:57:06:530 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:57:11:542 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.508 seconds (JVM running for 8.258)
+2018-03-13 16:57:45:156 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8596 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 16:57:45:157 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 16:57:47:568 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 2.508 seconds (JVM running for 44.283)
+2018-03-13 17:00:28:326 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10980 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:00:28:331 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:00:33:815 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.953 seconds (JVM running for 7.448)
+2018-03-13 17:02:29:439 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10980 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:02:29:440 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:02:31:204 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 1.844 seconds (JVM running for 124.835)
+2018-03-13 17:04:22:069 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10348 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:04:22:074 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:04:26:632 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.035 seconds (JVM running for 6.356)
+2018-03-13 17:06:57:801 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10768 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:06:57:806 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:07:01:844 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 4.56 seconds (JVM running for 6.442)
+2018-03-13 17:09:51:803 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 7220 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:09:51:808 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:09:56:019 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 4.714 seconds (JVM running for 6.137)
+2018-03-13 17:30:30:683 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 7188 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:30:30:688 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:31:15:486 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 11080 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:31:15:493 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:31:19:870 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.113 seconds (JVM running for 6.544)
+2018-03-13 17:32:06:157 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 11080 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:32:06:158 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:32:08:121 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 2.078 seconds (JVM running for 54.794)
+2018-03-13 17:37:14:022 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 11080 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:37:14:023 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:37:15:702 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 1.818 seconds (JVM running for 362.368)
+2018-03-13 17:39:08:112 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9500 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:39:08:117 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:39:12:582 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 4.961 seconds (JVM running for 6.525)
+2018-03-13 17:41:05:616 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 9500 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:41:05:616 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:41:07:859 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 2.34 seconds (JVM running for 121.798)
+2018-03-13 17:41:38:299 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10692 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:41:38:304 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:41:42:702 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 4.993 seconds (JVM running for 6.416)
+2018-03-13 17:42:07:942 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10692 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 17:42:07:942 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 17:42:10:014 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 2.18 seconds (JVM running for 33.728)
+2018-03-13 18:04:55:281 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 7432 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:04:55:287 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:04:59:910 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.423 seconds (JVM running for 6.872)
+2018-03-13 18:05:25:387 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10292 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:05:25:394 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:05:31:380 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.729 seconds (JVM running for 8.648)
+2018-03-13 18:17:32:698 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 7480 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:17:32:709 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:17:37:436 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.376 seconds (JVM running for 7.043)
+2018-03-13 18:21:32:903 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 5640 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:21:32:908 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:21:38:853 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.754 seconds (JVM running for 8.762)
+2018-03-13 18:34:16:997 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 5640 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:34:16:998 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:34:19:948 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 3.087 seconds (JVM running for 769.84)
+2018-03-13 18:42:16:651 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 6080 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:42:16:657 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:42:22:033 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.066 seconds (JVM running for 7.83)
+2018-03-13 18:45:55:723 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8404 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:45:55:738 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:46:01:323 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.227 seconds (JVM running for 7.967)
+2018-03-13 18:50:31:311 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10264 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:50:31:317 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:50:49:682 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 18.98 seconds (JVM running for 20.886)
+2018-03-13 18:52:50:560 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 10744 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-13 18:52:50:590 [restartedMain] INFO  com.cmy.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-03-13 18:52:54:908 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 4.927 seconds (JVM running for 6.413)
