@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.cmy.o2o.dao.WechatAuthDao">
+
+    <resultMap id="wechatAuthResultMap" type="com.cmy.o2o.entity.WechatAuth">
+        <id column="wechat_auth_id" property="wechatAuthId"></id>
+        <result property="openId" column="open_id"></result>
+        <result property="createTime" column="create_time"></result>
+        <association property="personInfo" column="user_id" javaType="com.cmy.o2o.entity.PersonInfo">
+            <id property="userId" column="user_id"></id>
+            <result property="name" column="name"></result>
+            <result property="birthday" column="birthday"></result>
+            <result property="gender" column="gender"></result>
+            <result property="phone" column="phone"></result>
+            <result property="email" column="email"></result>
+            <result property="profileImg" column="profile_img"></result>
+            <result property="enableStatus" column="enable_status"></result>
+            <result property="createTime" column="create_time"></result>
+            <result property="lastEditTime" column="last_edit_time"></result>
+        </association>
+    </resultMap>
+
+    <select id="queryWechatInfoByOpenId" resultMap="wechatAuthResultMap" parameterType="string">
+        SELECT
+        w.wechat_auth_id,
+        w.open_id,
+        w.create_time,
+        p.user_id,
+        p.name,
+        p.gender,
+        p.email,
+        p.profile_img,
+        p.create_time,
+        p.last_edit_time,
+        p.enable_status
+        FROM
+        o2o.tb_wechat_auth w
+        LEFT JOIN
+        o2o.tb_person_info p
+        ON
+        w.user_id = p.user_id
+        WHERE
+        w.open_id = #{openId}
+    </select>
+
+    <insert id="insertWechatAuth" parameterType="com.cmy.o2o.entity.WechatAuth"
+            useGeneratedKeys="true" keyProperty="wechatAuthId" keyColumn="wechat_auth_id">
+        INSERT INTO
+        o2o.tb_wechat_auth
+        (
+        user_id,
+        open_id,
+        create_time
+        )
+        VALUES
+        (
+        #{personInfo.userId},
+        #{openId},
+        #{createTime}
+        )
+    </insert>
+</mapper>
