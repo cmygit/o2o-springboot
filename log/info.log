@@ -164,3 +164,24 @@
 2018-03-14 14:41:31:182 [main] INFO  com.cmy.o2o.EncryptorTest - Starting EncryptorTest on POQ9V6ZT6KW6JQQ with PID 5676 (started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
 2018-03-14 14:41:31:182 [main] INFO  com.cmy.o2o.EncryptorTest - The following profiles are active: dev
 2018-03-14 14:41:37:740 [main] INFO  com.cmy.o2o.EncryptorTest - Started EncryptorTest in 7.869 seconds (JVM running for 9.646)
+2018-03-14 14:57:39:771 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 3804 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 14:57:39:777 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 14:57:45:151 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.977 seconds (JVM running for 8.02)
+2018-03-14 15:00:38:299 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 1052 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:00:38:299 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:00:42:912 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.176 seconds (JVM running for 6.883)
+2018-03-14 15:02:33:050 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 7144 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:02:33:055 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:02:37:514 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.038 seconds (JVM running for 6.537)
+2018-03-14 15:05:27:657 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8856 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:05:27:657 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:05:33:326 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.358 seconds (JVM running for 9.241)
+2018-03-14 15:10:33:219 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 1848 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:10:33:224 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:10:38:679 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.147 seconds (JVM running for 7.984)
+2018-03-14 15:20:19:585 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 4292 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:20:19:595 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:20:25:310 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.074 seconds (JVM running for 10.022)
+2018-03-14 15:22:24:159 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8836 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:22:24:159 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:22:29:949 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.325 seconds (JVM running for 9.23)
