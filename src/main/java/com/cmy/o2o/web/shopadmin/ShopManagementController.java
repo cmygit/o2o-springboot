@@ -79,7 +79,7 @@ public class ShopManagementController {
     private Map<String, Object> getShopList(HttpServletRequest request) {
         Map<String, Object> modelMap = new HashMap<>();
         PersonInfo user = new PersonInfo();
-        // TODO: 2018/3/12 0012 仅测试时使用
+        // 仅测试时使用
 //        user.setUserId(22L);
 //        user.setName("test");
 //        request.getSession().setAttribute(ControllerConst.USER, user);

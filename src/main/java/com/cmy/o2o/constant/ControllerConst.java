@@ -43,6 +43,9 @@ public class ControllerConst {
     /* user */
     public final static String USER = "user";
 
+    /* userType */
+    public final static String USER_TYPE = "userType";
+
     /* userName */
     public final static String USERNAME = "userName";
 

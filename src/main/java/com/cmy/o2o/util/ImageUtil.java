@@ -19,7 +19,7 @@ import java.util.Random;
  */
 public class ImageUtil {
 
-    private static String resourcesBasePath = Thread.currentThread().getContextClassLoader().getResource("").getPath();
+    private static String resourcesBasePath = PathUtil.getImgBasePath();
     private static final SimpleDateFormat sDateFormat = new SimpleDateFormat("yyyyMMddHHmmss");
     private static Random r = new Random();
 
@@ -38,7 +38,7 @@ public class ImageUtil {
         try {
             Thumbnails.of(thumbnail.getImage()).size(300, 300)
                     .watermark(Positions.BOTTOM_RIGHT,
-                            ImageIO.read(new File(resourcesBasePath + "/tempImg/logo_small.jpg")), 0.25f)
+                            ImageIO.read(new File(resourcesBasePath + "/logo_small.jpg")), 0.25f)
                     .outputQuality(0.8f)
                     .toFile(dest);
         } catch (IOException e) {

@@ -3,7 +3,6 @@ package com.cmy.o2o.service;
 import com.cmy.o2o.dto.LocalAuthExecution;
 import com.cmy.o2o.entity.LocalAuth;
 import com.cmy.o2o.exception.LocalAuthOperaException;
-import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
 /**
  * Author : cmy
@@ -35,14 +34,11 @@ public interface LocalAuthService {
      * 绑定微信，生成平台专属帐号
      *
      * @param localAuth
-     * @param profileImg
-     *
      * @return
      *
      * @throws RuntimeException
      */
-    LocalAuthExecution register(LocalAuth localAuth,
-                                CommonsMultipartFile profileImg) throws LocalAuthOperaException;
+    LocalAuthExecution insertLoaclAuth(LocalAuth localAuth) throws LocalAuthOperaException;
 
     /**
      *

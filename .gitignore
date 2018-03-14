@@ -1,6 +1,11 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
+### custom file ###
+/src/main/resources/application-dev.properties
+/src/test/java/com/cmy/o2o/EncryptorTest.java
+/log/
+
 ### STS ###
 .apt_generated
 .classpath

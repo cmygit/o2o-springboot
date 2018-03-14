@@ -2,6 +2,7 @@ package com.cmy.o2o.config.web;
 
 import com.cmy.o2o.interceptor.shopadmin.ShopLoginInterceptor;
 import com.cmy.o2o.interceptor.shopadmin.ShopPermissionInterceptor;
+import com.cmy.o2o.util.PathUtil;
 import com.google.code.kaptcha.servlet.KaptchaServlet;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Value;
@@ -40,7 +41,7 @@ public class MvcConfiguration extends WebMvcConfigurerAdapter implements Applica
      */
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
-        registry.addResourceHandler("/upload/**").addResourceLocations("file:E:\\DevelopWorkspace\\java-demo\\spring-leanrn\\o2o-assert\\upload\\");
+        registry.addResourceHandler("/upload/**").addResourceLocations(PathUtil.getUploadRootPath());
     }
 
     /**

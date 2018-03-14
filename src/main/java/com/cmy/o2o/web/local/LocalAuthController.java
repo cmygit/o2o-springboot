@@ -2,12 +2,15 @@ package com.cmy.o2o.web.local;
 
 import com.cmy.o2o.constant.ControllerConst;
 import com.cmy.o2o.dto.LocalAuthExecution;
+import com.cmy.o2o.dto.PersonInfoExecution;
 import com.cmy.o2o.entity.LocalAuth;
 import com.cmy.o2o.entity.PersonInfo;
 import com.cmy.o2o.enums.LocalAuthStateEnum;
 import com.cmy.o2o.service.LocalAuthService;
+import com.cmy.o2o.service.PersonInfoService;
 import com.cmy.o2o.util.CodeUtil;
 import com.cmy.o2o.util.HttpServletRequestUtil;
+import com.cmy.o2o.util.wechat.WechatUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -29,6 +32,13 @@ public class LocalAuthController {
     @Autowired
     private LocalAuthService localAuthService;
 
+    @Autowired
+    private PersonInfoService personInfoService;
+
+    private static final String FRONTEND = "1";
+
+    private static final String SHOPEND = "2";
+
     /**
      * 绑定平台帐号
      *
@@ -39,11 +49,37 @@ public class LocalAuthController {
     @PostMapping(value = "/bindlocalauth")
     private Map<String, Object> bindLocalAuth(HttpServletRequest request) {
         Map<String, Object> modelMap = new HashMap<>();
+        boolean registerFlag = HttpServletRequestUtil.getBoolean(request, "registerFlag");
+        // 是否需要验证码验证
+        boolean needVerify = HttpServletRequestUtil.getBoolean(request, ControllerConst.NEED_VERIFY);
+        // 用户类型
+        String userType = HttpServletRequestUtil.getString(request, ControllerConst.USER_TYPE);
         // 验证码校验
-        if (!CodeUtil.checkVerifyCode(request)) {
+        if (needVerify && !CodeUtil.checkVerifyCode(request)) {
             modelMap.put(ControllerConst.SUCCESS, false);
             modelMap.put(ControllerConst.ERR_MSG, "输入了错误的验证码");
             return modelMap;
+        }
+
+        // 判断是注册还是绑定帐号，如果是注册，则先注册用户信息，再绑定平台帐号
+        if (registerFlag) {
+            PersonInfo personInfo = new PersonInfo();
+            personInfo.setAdminFlag(1);
+            if (FRONTEND.equals(userType)) {
+                personInfo.setName("用户");
+            } else if (SHOPEND.equals(userType)) {
+                personInfo.setName("商家");
+            }
+            try {
+                PersonInfoExecution pe = personInfoService.addPersonInfo(personInfo);
+                // 获取注册后的用户信息
+                PersonInfo registerUser = personInfoService.getPersonInfoById(pe.getPersonInfo().getUserId());
+                // 用户信息保存到session中
+                request.getSession().setAttribute(ControllerConst.USER, registerUser);
+            } catch (Exception e) {
+                modelMap.put(ControllerConst.SUCCESS, false);
+                modelMap.put(ControllerConst.ERR_MSG, e.getMessage());
+            }
         }
         // 获取输入的帐号
         String userName = HttpServletRequestUtil.getString(request, ControllerConst.USERNAME);

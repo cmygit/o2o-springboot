@@ -52,4 +52,9 @@ public class PathUtil {
         String imagePath = shopPath + shopId + separator;
         return imagePath.replace("/", separator);
     }
+
+    public static String getUploadRootPath() {
+        String uploadRootPath = "file:" + getImgBasePath()  + separator + "upload" +separator;
+        return uploadRootPath.replace("/", separator);
+    }
 }

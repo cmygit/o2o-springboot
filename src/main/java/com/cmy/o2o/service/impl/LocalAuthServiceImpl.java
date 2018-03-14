@@ -10,7 +10,6 @@ import com.cmy.o2o.util.MD5;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
 import java.util.Date;
 
@@ -37,7 +36,7 @@ public class LocalAuthServiceImpl implements LocalAuthService {
 
     @Override
     @Transactional
-    public LocalAuthExecution register(LocalAuth localAuth, CommonsMultipartFile profileImg) throws LocalAuthOperaException {
+    public LocalAuthExecution insertLoaclAuth(LocalAuth localAuth) throws LocalAuthOperaException {
         return null;
     }
 
