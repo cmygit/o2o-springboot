@@ -63,7 +63,7 @@ public class ImageUtil {
         try {
             Thumbnails.of(thumbnail.getImage()).size(337, 647)
                     .watermark(Positions.BOTTOM_RIGHT,
-                            ImageIO.read(new File(resourcesBasePath + "/tempImg/logo_small.jpg")), 0.25f)
+                            ImageIO.read(new File(resourcesBasePath + "/logo_small.jpg")), 0.25f)
                     .outputQuality(0.9f)
                     .toFile(dest);
         } catch (IOException e) {

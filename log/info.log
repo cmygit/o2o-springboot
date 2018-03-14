@@ -185,3 +185,11 @@
 2018-03-14 15:22:24:159 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8836 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
 2018-03-14 15:22:24:159 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
 2018-03-14 15:22:29:949 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.325 seconds (JVM running for 9.23)
+2018-03-14 15:36:34:805 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 6688 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:36:34:815 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:36:39:431 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 5.18 seconds (JVM running for 6.653)
+2018-03-14 15:53:52:660 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8704 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:53:52:666 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:54:03:462 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Starting O2oApplication on POQ9V6ZT6KW6JQQ with PID 8516 (E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot\target\classes started by Administrator in E:\DevelopWorkspace\java-demo\spring-leanrn\o2o-springboot)
+2018-03-14 15:54:03:468 [restartedMain] INFO  com.cmy.o2o.O2oApplication - The following profiles are active: dev
+2018-03-14 15:54:09:186 [restartedMain] INFO  com.cmy.o2o.O2oApplication - Started O2oApplication in 6.564 seconds (JVM running for 8.286)
